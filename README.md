@@ -1,3 +1,3 @@
 # testing_git
 
-Testowy komentarz
+Testowy komentarz 2
