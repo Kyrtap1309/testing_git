@@ -1,4 +1,4 @@
 # testing_git
 
 Testowy komentarz 2
-Zmiana w first branch
+Zmiana w first branchand third-branch
